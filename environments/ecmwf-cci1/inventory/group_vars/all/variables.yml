@@ -226,4 +226,4 @@ velero_backup_schedule_name: default
 velero_backup_schedule_timings: "0 0 * * *"
 # Time-to-live for existing backups (defaults to 1 week)
 # See https://pkg.go.dev/time#ParseDuration for duration format options
-velero_backup_schedule_ttl: "168h"4pm4pm
+velero_backup_schedule_ttl: "168h"
